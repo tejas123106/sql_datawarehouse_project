@@ -311,21 +311,4 @@ Through this project, I gained practical experience in:
 - Implementing dimensional data modeling.
 - Developing analytical queries and data quality checks.
 
-## 👨‍💻 Author
 
-**Tejas K M**
-
-B.E. – Artificial Intelligence and Machine Learning
-
-B.M.S. Institute of Technology and Management, Bengaluru
-
-- GitHub: [tejas123106](https://github.com/tejas123106)
-- Project Repository: [SQL Data Warehouse Project](https://github.com/tejas123106/sql_datawarehouse_project)
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-⭐ If you find this project useful, feel free to explore the repository and provide feedback.
